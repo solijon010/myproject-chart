@@ -32,6 +32,8 @@ body {
     --color-brown: #382314;
     --color-gray: #92857a;
     --color-cyan: #76b5bc;
+    --color-hover-cyan: rgba(180, 224, 229, 1);
+    --color-hover-red:  #FF9B86;
 
     /* border radius */
 
